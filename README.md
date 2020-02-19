@@ -1,2 +1,3 @@
-# WhatCatAreYOU
-A fun little questionaire that 100% accurately tells what your spirit animal is
+## What cat are YOU?
+
+Fill the questionaire to learn what cat is your TRUE spirit animal!
